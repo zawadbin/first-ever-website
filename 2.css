@@ -1,0 +1,450 @@
+.navbar-heading {
+  background-color: sandybrown;
+  height: 70px;
+  width: 100%;
+  margin-top: -20px;
+  color: white;
+  padding: 3px;
+
+}
+
+body {
+  background-color: wheat;
+}
+
+.botton {
+  text-align: right;
+  margin-top: -45px;
+  word-spacing: 5px;
+  color: white;
+  margin-right: 20px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+}
+
+
+
+a {
+  font-size: 1.1rem;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: white;
+  padding: 10px;
+  line-height: 30px;
+}
+
+a:hover {
+  color: cornflowerblue;
+}
+
+h1 {
+  color: cornflowerblue;
+  margin-left: 20px;
+}
+
+.search-bar {
+  margin-left: 88%;
+
+
+}
+
+.search-bar input {
+  background-color: skyblue;
+}
+
+.search-nav {
+  background-color: #363636;
+  height: 40px;
+  margin-top: -2rem;
+  width: 1510px;
+
+}
+
+input {
+  margin-top: 9px;
+}
+
+.para-graph {
+  width: 400px;
+  text-transform: capitalize;
+  text-align: justify;
+  color: white;
+  margin-left: 20px;
+  font-size: 15px;
+  opacity: 0.5;
+}
+
+.second-part {
+  text-transform: capitalize;
+
+}
+
+.second-part a {
+  border: 5px solid orange;
+  background-color: orange;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+
+.a-1 {
+  margin-left: 140px;
+}
+
+.text-lines {
+  width: 600px;
+  height: 260px;
+  background-color: black;
+  margin-left: 20px;
+}
+
+b {
+  color: skyblue;
+  font-size: 1.2rem;
+  line-height: 50px;
+  margin-left: 20px;
+  text-transform: uppercase;
+
+}
+
+h2 {
+  margin-left: 10px;
+
+}
+
+h3 {
+  color: black;
+  opacity: 0.5;
+  margin-left: 20px;
+  text-transform: capitalize;
+  margin-top: -6px;
+}
+
+.pencil {
+  height: 100px;
+  width: 550px;
+  margin-top: -10px;
+  border: 1.5px solid skyblue;
+  margin-left: 10px;
+}
+
+.text {
+  width: 300px;
+  text-align: justify;
+  text-transform: capitalize;
+  margin-left: 10px;
+  font-size: 10px;
+}
+
+.short {
+  color: aqua;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.post {
+  text-transform: uppercase;
+  opacity: 0.5;
+  color: skyblue;
+  margin-left: 10px;
+  line-height: 0.1;
+
+
+}
+
+.lines {
+  font-size: 10px;
+  color: red;
+  margin-left: 10px;
+}
+
+.clock {
+  width: 550px;
+  height: 100px;
+  border: solid 1.5px skyblue;
+  margin-left: 10px;
+}
+
+.last-lines {
+  width: 500px;
+  text-align: justify;
+  text-transform: capitalize;
+  font-size: 10px;
+  margin-left: 10px;
+}
+
+.shorts-2 {
+  color: aqua;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.blog {
+  color: white;
+  text-transform: uppercase;
+  background-color: black;
+  margin-left: 420px;
+  padding: 10px;
+
+}
+
+.main {
+  border: 1px solid whitesmoke;
+  width: 600px;
+  height: 550px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background-color: wheat;
+}
+
+.coloum-1 {
+  color: white;
+  background-color: skyblue;
+}
+
+.coloum-2 {
+  color: white;
+  background-color: black;
+
+}
+
+.coloum-3 {
+  color: white;
+  background-color: black;
+
+}
+
+.side-bar {
+  margin-left: 50%;
+  margin-top: -55%;
+  word-spacing: 11.4px;
+  line-height: 20px;
+
+
+}
+
+.side-para {
+  font-size: 15px;
+  text-align: justify;
+  width: 280px;
+  color: white;
+  background-color: skyblue;
+  margin-top: 5px;
+  padding: 10px;
+  text-transform: capitalize;
+  line-height: 25px;
+}
+
+.side-line {
+  margin-left: 5px;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  word-spacing: 2px;
+  line-height: 50px;
+}
+
+.image-man {
+  border: 4px sandybrown solid;
+  height: 120px;
+  width: 300px;
+
+}
+
+.last-paragraph {
+  width: 310px;
+  text-align: justify;
+  text-shadow: #363636 1px 2px 3px;
+  text-transform: capitalize;
+  word-spacing: 5px;
+  font-size: 0.8rem;
+  line-height: 30px;
+  color: white;
+}
+
+.sponser {
+  font-size: 25px;
+  text-transform: uppercase;
+  margin-left: 10px;
+  cursor: crosshair;
+  margin-top: 40px;
+
+}
+
+.sponser-image {
+  height: 100px;
+  border: 3px sandybrown solid;
+}
+
+.spon-image {
+  height: 100px;
+  border: 3px sandybrown solid;
+  width: 160px;
+  background-color: #363636;
+}
+
+.top {
+  font-size: 20px;
+  margin-top: 50px;
+  margin-left: 70px;
+  line-height: 30px;
+  text-transform: uppercase;
+  color: skyblue;
+}
+
+input.last-part {
+  margin-left: 50px;
+  margin-top: -20px;
+  word-spacing: 20px;
+}
+
+.last-part {
+  line-height: 40px;
+  width: 90px;
+}
+
+.last-part-1 {
+  line-height: 40px;
+  width: 90px;
+  margin-left: 20px;
+  margin-top: -10px;
+}
+
+::placeholder {
+  text-align: center;
+  word-spacing: 1px;
+  text-transform: capitalize;
+}
+
+.para-box {
+  margin-left: 50px;
+  width: 213px;
+  height: 80px;
+}
+
+.last-text {
+  margin-left: 50px;
+  height: 30px;
+  width: 218px;
+  padding: 0;
+  margin-top: -10px;
+}
+
+.sub {
+  margin-left: 190px;
+  background-color: goldenrod;
+  font-size: 20px;
+  line-height: 70px;
+
+}
+
+.images {
+  text-align: center;
+  margin-top: -260px;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin-left: -100pt;
+  width: 100%;
+
+}
+
+h5 {
+  font-size: 20px;
+  margin-left: 580px;
+  margin-top: -320px;
+  text-transform: uppercase;
+  color: skyblue;
+}
+
+.image-1 {
+  width: 100px;
+  margin-top: 90px;
+  margin-left: 700px;
+
+
+}
+
+.image-2 {
+  width: 100px;
+  margin-left: -276px;
+}
+
+.image-3 {
+  width: 110px;
+  margin-left: -345px;
+  height: 84px;
+
+
+}
+
+.image-4 {
+  width: 110px;
+  height: 98px;
+  margin-top: 90px;
+  margin-left: -520px;
+}
+
+
+
+.back-ground {
+  background-color: black;
+  height: 400px;
+}
+
+.last-a {
+  margin-left: 680px;
+  background-color: goldenrod;
+  line-height: 90px;
+}
+
+h4 {
+  color: skyblue;
+  margin-left: 77%;
+  margin-top: -380px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.para-1 {
+  margin-top: -20px;
+  margin-left: 75%;
+  color: white;
+  text-align: justify;
+  font-size: 15px;
+  width: 300px;
+}
+
+.last-1 {
+  color: blue;
+
+}
+
+.para-2 {
+  color: white;
+  width: 300px;
+  margin-left: 75%;
+}
+
+s {
+  color: blue;
+}
+
+.last-atag {
+  color: skyblue;
+  margin-left: 85%;
+  background-color: coral
+}
+.copyright{
+  
+  background-color: cadetblue;
+  height: 70px;
+}
+.copy{
+margin-top: -70px;
+color: white;
+font-size: 15px;
+margin-left: 40px;
+}
