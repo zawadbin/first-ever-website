@@ -43,7 +43,9 @@ a:hover {
 
 h1 {
   color: cornflowerblue;
-  margin-left: 20px;
+  margin-left: 40px;
+  line-height: 40px;
+  
 }
 
 .search-bar {
@@ -69,17 +71,18 @@ input {
 }
 
 .para-graph {
-  width: 400px;
+  width: 600px;
   text-transform: capitalize;
   text-align: justify;
   color: white;
-  margin-left: 20px;
+  margin-left: 30px;
   font-size: 15px;
   opacity: 0.5;
 }
 
 .second-part {
   text-transform: capitalize;
+  margin-left: 30px;
 
 }
 
@@ -95,17 +98,18 @@ input {
 }
 
 .text-lines {
-  width: 600px;
-  height: 260px;
+  width: 700px;
+  height: 280px;
   background-color: black;
-  margin-left: 20px;
+  line-height: 30px;
+  display: flex;
 }
 
 b {
   color: skyblue;
   font-size: 1.2rem;
   line-height: 50px;
-  margin-left: 20px;
+  margin-left: 40px;
   text-transform: uppercase;
 
 }
@@ -118,25 +122,25 @@ h2 {
 h3 {
   color: black;
   opacity: 0.5;
-  margin-left: 20px;
+  margin-left: 40px;
   text-transform: capitalize;
   margin-top: -6px;
 }
 
 .pencil {
-  height: 100px;
+  height: 200px;
   width: 550px;
   margin-top: -10px;
   border: 1.5px solid skyblue;
-  margin-left: 10px;
+  margin-left: 40px;
 }
 
 .text {
-  width: 300px;
+  width: 600px;
   text-align: justify;
   text-transform: capitalize;
-  margin-left: 10px;
-  font-size: 10px;
+  margin-left: 40px;
+  font: size 1.2em;
 }
 
 .short {
@@ -150,31 +154,31 @@ h3 {
   text-transform: uppercase;
   opacity: 0.5;
   color: skyblue;
-  margin-left: 10px;
+  margin-left: 40px;
   line-height: 0.1;
 
 
 }
 
 .lines {
-  font-size: 10px;
+  font-size: 14px;
   color: red;
-  margin-left: 10px;
+  margin-left: 40px;
 }
 
 .clock {
   width: 550px;
-  height: 100px;
+  height: 200px;
   border: solid 1.5px skyblue;
-  margin-left: 10px;
+  margin-left: 40px;
 }
 
 .last-lines {
-  width: 500px;
+  width: 600px;
   text-align: justify;
   text-transform: capitalize;
-  font-size: 10px;
-  margin-left: 10px;
+  font-size: 1.2rem;
+  margin-left: 50px;
 }
 
 .shorts-2 {
@@ -187,15 +191,15 @@ h3 {
   color: white;
   text-transform: uppercase;
   background-color: black;
-  margin-left: 420px;
+  margin-left: 490px;
   padding: 10px;
 
 }
 
 .main {
   border: 1px solid whitesmoke;
-  width: 600px;
-  height: 550px;
+  width: 700px;
+  height: 900px;
   margin-left: 20px;
   margin-top: 20px;
   background-color: wheat;
@@ -204,33 +208,38 @@ h3 {
 .coloum-1 {
   color: white;
   background-color: skyblue;
+
+ 
 }
 
 .coloum-2 {
   color: white;
   background-color: black;
+  margin-left: 20px;
 
 }
 
 .coloum-3 {
   color: white;
   background-color: black;
+ margin-left: 20px;
 
 }
 
 .side-bar {
-  margin-left: 50%;
-  margin-top: -55%;
-  word-spacing: 11.4px;
+  margin-left: 66%;
+  margin-top: -40%;
+  word-spacing: 30.4px;
   line-height: 20px;
+  font-size: 95px;
 
 
 }
 
 .side-para {
-  font-size: 15px;
+  font-size: 18px;
   text-align: justify;
-  width: 280px;
+  width: 400px;
   color: white;
   background-color: skyblue;
   margin-top: 5px;
@@ -252,6 +261,13 @@ h3 {
   height: 120px;
   width: 300px;
 
+}
+.last-images{
+ margin-bottom: 600px;
+ margin-top: -990px;
+ height: 260px;
+ width: 480px;
+ margin-left: 870px;
 }
 
 .last-paragraph {
